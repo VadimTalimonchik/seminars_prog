@@ -1,0 +1,15 @@
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\bin\Debug\net6.0\ex_001.exe
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\bin\Debug\net6.0\ex_001.deps.json
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\bin\Debug\net6.0\ex_001.runtimeconfig.json
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\bin\Debug\net6.0\ex_001.dll
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\bin\Debug\net6.0\ex_001.pdb
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\obj\Debug\net6.0\ex_001.csproj.AssemblyReference.cache
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\obj\Debug\net6.0\ex_001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\obj\Debug\net6.0\ex_001.AssemblyInfoInputs.cache
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\obj\Debug\net6.0\ex_001.AssemblyInfo.cs
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\obj\Debug\net6.0\ex_001.csproj.CoreCompileInputs.cache
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\obj\Debug\net6.0\ex_001.dll
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\obj\Debug\net6.0\refint\ex_001.dll
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\obj\Debug\net6.0\ex_001.pdb
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\obj\Debug\net6.0\ex_001.genruntimeconfig.cache
+D:\Вадим\me\Программирование\Программирование GeekBrains\Разработчик GeekBrains\WORKSHOP\Examples_prog\ex_001\obj\Debug\net6.0\ref\ex_001.dll
